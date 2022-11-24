@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1006887131547",
+    "project_id": "flutter-ecommerce-bloc-734b4",
+    "storage_bucket": "flutter-ecommerce-bloc-734b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006887131547:android:b692c7ed64f88dc3d6e93e",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel_true"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006887131547-6j4fa8jf4mmn1k1ca513l874h1rnmrsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRT-bLEmADyw0s7lb9-XfBjNB5Kgnt024"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006887131547-6j4fa8jf4mmn1k1ca513l874h1rnmrsa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006887131547-3g819un6t030ksq9u6pc3ca6bb6iesbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceBloc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006887131547:android:50cd668a1b656ddbd6e93e",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006887131547-6j4fa8jf4mmn1k1ca513l874h1rnmrsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRT-bLEmADyw0s7lb9-XfBjNB5Kgnt024"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006887131547-6j4fa8jf4mmn1k1ca513l874h1rnmrsa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006887131547-3g819un6t030ksq9u6pc3ca6bb6iesbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceBloc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
